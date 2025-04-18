@@ -21,4 +21,5 @@ public class LeetCode1922 {
         return (res);
 
     }
+    
 }
